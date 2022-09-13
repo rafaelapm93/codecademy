@@ -1,1 +1,1 @@
-Terminal Hanoi Game!
+Terminal Towers of Hanoi game!
